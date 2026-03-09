@@ -84,6 +84,30 @@ A comprehensive cheat-sheet for navigating the social landscapes and local diale
     *   **Dibs**: Reserving a shoveled out street parking spot with folding chairs in winter.
     *   **Frunchroom**: The front living room of a house.
 
+### Texas (Austin / Dallas / Houston)
+*   **Social Rules**: A mix of Southern charm and fierce independence. "Yes ma'am" and "No sir" are common signs of respect. High pride in BBQ, Tex-Mex, and the state itself (usually represented by the Lone Star flag). Very car-centric outside of downtown Austin.
+*   **Slang**:
+    *   **Y'all**: You all (used constantly).
+    *   **All y'all**: Plural of y'all (referring to a large group).
+    *   **Fixin' to**: Getting ready to do something.
+    *   **Bless your heart**: Can be genuine sympathy, but often used as a polite, thinly veiled insult.
+
+### Colorado (Denver / Boulder)
+*   **Social Rules**: Extremely outdoorsy and active; weekend plans revolve around the mountains (skiing, hiking). Very casual dress code (flannel, activewear). Conversations often touch on craft beer and altitude.
+*   **Slang**:
+    *   **14er**: A mountain peak exceeding 14,000 feet in elevation.
+    *   **Transplant**: Someone who moved to Colorado (often used with mild friction).
+    *   **The Front Range**: The urban corridor along the eastern edge of the Rockies (Denver, Boulder, Springs).
+    *   **Send it**: To aggressively go for something, especially in extreme sports.
+
+### North Carolina (Charlotte / Raleigh)
+*   **Social Rules**: A blend of Appalachian/Southern roots and massive banking/tech influx. College basketball (Tobacco Road rivalry) is a core cultural pillar. Very polite, hospitable, but rapidly modernizing.
+*   **Slang**:
+    *   **Cook Out**: The iconic regional fast-food chain, often a late-night social hub.
+    *   **Uptown**: Downtown Charlotte (locals insist on calling it Uptown).
+    *   **Y'all**: Ubiquitous Southern pronoun.
+    *   **Toboggan**: A knit winter hat (beanie), not a sled.
+
 ---
 
 ## India
@@ -128,6 +152,14 @@ A comprehensive cheat-sheet for navigating the social landscapes and local diale
     *   **Kiti vajle?**: What time is it?
     *   **Katkat**: Nuisance / headache.
     *   **Peth**: Historic neighborhoods.
+
+### Kolkata (Calcutta)
+*   **Social Rules**: Deep pride in literature, arts, and intellectual debate. "Adda" (long, informal conversations over tea about politics, sports, or art) is a daily ritual. Respect for heritage and sweets (Mishti) is essential. High emotional investment in the local football derby (Mohun Bagan vs. East Bengal).
+*   **Slang**:
+    *   **Dada**: Elder brother (used for literally any older male figure or friend).
+    *   **Adda**: The quintessential Bengali session of intellectual hanging out.
+    *   **Bhodrolok**: The refined, educated middle-class gentlemen.
+    *   **Lyadh**: The feeling of extreme lethargy or laziness / doing nothing.
 
 ---
 
@@ -225,6 +257,30 @@ A comprehensive cheat-sheet for navigating the social landscapes and local diale
     *   **Para nai**: No tension / No problem.
     *   **Jhotpot**: Quickly.
     *   **Adda**: Hanging out and conversing.
+
+### Manila (Philippines)
+*   **Social Rules**: High hospitality and family-centric. Respect for elders is deeply ingrained (using "Po" and "Opo" in speech, and "Mano", taking an elder's hand to your forehead). Food is love—expect to be asked "Kumain ka na ba?" (Have you eaten?). Traffic in Metro Manila is notoriously heavy.
+*   **Slang**:
+    *   **Kuya / Ate**: Older brother / older sister (used to respectfully address anyone slightly older).
+    *   **Charot**: Just kidding / joke.
+    *   **Kilig**: The feeling of romantic thrill or butterflies in the stomach.
+    *   **Sari-sari**: A neighborhood convenience store.
+
+### Taipei (Taiwan)
+*   **Social Rules**: Extremely safe, polite, and orderly. The MRT (subway) is spotless—never eat or drink (even water) on it. Night markets are the center of social dining. Generosity in sharing food is common.
+*   **Slang**:
+    *   **Q (or QQ)**: Meaning a food texture that is perfectly bouncy/chewy (like boba).
+    *   **Aiya!**: An exclamation of surprise, frustration, or dismay.
+    *   **Kao yao**: Literally "cry hunger," used as a mild curse like "damn" or "crap."
+    *   **Dcard**: A popular social media platform heavily used by students and young adults.
+
+### Cairo (Egypt)
+*   **Social Rules**: Warm, loud, and incredibly social. Time is highly flexible. Humor and sarcasm ("Efat") are heavily used to cope with daily struggles. Shisha (hookah) cafes (Ahwas) are primary social gathering points.
+*   **Slang**:
+    *   **Basha / Yasta**: Boss / Chief (used to address friends, taxi drivers, strangers).
+    *   **Inshallah**: God willing (often implies "it probably won't happen").
+    *   **Fakes**: Fake / meaningless / forget about it.
+    *   **Eshta**: Cool / Awesome / Deal.
 
 ---
 
