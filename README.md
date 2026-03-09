@@ -4,3 +4,4 @@ A repository for compiling interpersonal communication strategies, cultural nuan
 
 ## Contents
 * [Global Metro Cities: Social Skills & Slang Guide](./GLOBAL_SOCIAL_SKILLS_AND_SLANG.md)
+* [Global Metro Cities: Travel Blogs & YouTube Talks](./METRO_TRAVEL_TALKS.md)

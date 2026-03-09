@@ -2,6 +2,8 @@
 
 A comprehensive cheat-sheet for navigating the social landscapes and local dialects of major global metropolitan hubs. 
 
+> **Looking for global city travel blogs, street food guides, and transit tips?** Check out [METRO_TRAVEL_TALKS.md](./METRO_TRAVEL_TALKS.md) for an automatically updated list of YouTube videos covering the world's biggest metro regions.
+
 ## Universal Social Skills for Global Hubs
 1. **Respect the Pace**: In high-density global cities (NYC, London, Tokyo, Mumbai), walking slowly or blocking pathways is considered highly disrespectful. 
 2. **Cultural Competence**: Assume diversity. Be open to different dining etiquettes, greeting norms, and communication styles.
