@@ -60,6 +60,30 @@ A comprehensive cheat-sheet for navigating the social landscapes and local diale
     *   **Chonga**: Working-class Latina subculture/style.
     *   **Que bola**: What's up? (Cuban origin).
 
+### Baltimore
+*   **Social Rules**: Very direct but friendly communication. Huge pride in local working-class culture, blue crabs, and sports teams (Ravens, Orioles). A distinct local accent ("Bawlmer") shapes the slang heavily.
+*   **Slang**:
+    *   **Hon**: Endearment term for anyone (short for honey).
+    *   **Downey ocean**: Going down to the beach (specifically Ocean City, MD).
+    *   **Natty Boh**: National Bohemian beer, the local favorite.
+    *   **Dummy / Dummy hard**: Really or very (e.g., "Dummy hard" means very difficult).
+
+### Los Angeles (LA)
+*   **Social Rules**: Driving is mandatory; the first topic of conversation is usually traffic and *which freeway routes* you took. Health consciousness, wellness, and the entertainment industry are dominant themes. Time is fluid.
+*   **Slang**:
+    *   **The Industry**: The film and entertainment sector.
+    *   **SigAlert**: A major traffic jam on the freeway.
+    *   **Transplant**: Someone who moved to LA from elsewhere.
+    *   **The (Freeway)**: Freeways always take "The" prefix (e.g., "The 405", "The 10").
+
+### Chicago
+*   **Social Rules**: Midwestern friendliness meets big-city grit. Complaining about the freezing winters and "Lake effect" snow is an immediate bonding exercise. Massive pride in local neighborhoods and pizza styles.
+*   **Slang**:
+    *   **The Loop**: Downtown Chicago.
+    *   **The L**: The CTA elevated train system.
+    *   **Dibs**: Reserving a shoveled out street parking spot with folding chairs in winter.
+    *   **Frunchroom**: The front living room of a house.
+
 ---
 
 ## India
@@ -161,6 +185,22 @@ A comprehensive cheat-sheet for navigating the social landscapes and local diale
     *   **Wai mai**: Food delivery.
     *   **996**: Working 9 AM to 9 PM, 6 days a week.
     *   **Dama**: Active, middle-aged women.
+
+### Tokyo
+*   **Social Rules**: Harmony (Wa) is essential. High emphasis on keeping quiet in public transit, not eating while walking, and extreme politeness. The concept of "reading the air" (Kuuki wo yomu) dictates non-verbal social cues.
+*   **Slang**:
+    *   **Otsukaresama**: "Thank you for your hard work," an essential daily greeting/farewell.
+    *   **Yabai**: Crazy / terrible / amazing (highly versatile).
+    *   **Maji de?**: Seriously? / For real?
+    *   **Konbini**: Convenience store (7-Eleven, FamilyMart, Lawson).
+
+### Dubai
+*   **Social Rules**: A massive expat melting pot. Respect for local Islamic laws and modesty is expected. High luxury and showcasing status is common. Weekend brunch is a huge social institution.
+*   **Slang** (Expat/Global Mix):
+    *   **Inshallah**: God willing (in informal scheduling, often wryly implies "maybe" or "eventually").
+    *   **Yalla**: Let's go / Hurry up.
+    *   **Karak**: Strong spiced tea, the fuel of the city's working and middle classes.
+    *   **Wasta**: Influence, connections, or clout used to get things done.
 
 ### Seoul
 *   **Social Rules**: Deep respect for age/hierarchy (bowing, honorifics). When pouring drinks (like Soju), pour for others, never yourself. Everything happens fast ("Pbali-pbali" culture).
